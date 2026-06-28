@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Baseline CTGAN,0.59,0.59,0.59,0.59,0.62
+DP epsilon=5.0,0.5,0.5,0.5,0.5,0.51
+DP epsilon=1.0,0.51,0.51,0.51,0.51,0.52
+DP epsilon=0.5,0.54,0.54,0.54,0.54,0.54

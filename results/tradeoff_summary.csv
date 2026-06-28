@@ -1,0 +1,5 @@
+Model,Epsilon,Utility_Accuracy,F1_Score,Similarity,Attack_Accuracy,Privacy_Level
+DP ε=0.5,0.5,0.8,0.79,0.89,0.51,Very High
+DP ε=1,1.0,0.84,0.83,0.92,0.57,High
+DP ε=5,5.0,0.87,0.86,0.95,0.66,Medium
+Baseline CTGAN,10.0,0.89,0.88,0.97,0.81,Low
